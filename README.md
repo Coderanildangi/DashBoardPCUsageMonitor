@@ -6,7 +6,7 @@ This application is designed to monitor and display real-time PC usage data coll
 
 ### Client App
 - **Description**: Collects system data (CPU, RAM, disk usage, etc.) from individual PCs.
-- **Technologies**: C#, WPF, Performance Counters.
+- **Technologies**: C#, Performance Counters, Open Hardware Monitor API.
 - **Usage**: Run the client app on PCs within the network to collect system data.
 
 ### Server App
