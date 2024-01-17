@@ -43,7 +43,7 @@ Before you begin, make sure you have the following installed:
 2. **Change into the project directory:**
 
     ```bash
-    cd client-app
+    cd ServerApp
     ```
 
 3. **Build the application:**
